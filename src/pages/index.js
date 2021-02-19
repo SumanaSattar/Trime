@@ -4,9 +4,12 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+
 import emailIcon from "./../images/user_icon.svg"
 import passwordIcon from "./../images/lock_icon.svg"
 import heroImg from "./../images/headerImage.png"
+
+import "./../css/index.css"
 
 
 const IndexPage = () => {
